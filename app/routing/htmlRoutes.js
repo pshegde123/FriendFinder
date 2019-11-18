@@ -17,7 +17,7 @@ module.exports = function (app) {
     // ---------------------------------------------------------------------------
 
     app.get("/survey", function (req, resp) {
-        var seyverFilePath = path.join(__dirname,"../public/servey.html");
+        var seyverFilePath = path.join(__dirname,"../public/survey.html");
         resp.sendFile(seyverFilePath)
     });
     app.get("*", function (req, resp) {
