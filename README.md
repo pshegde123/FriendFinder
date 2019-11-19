@@ -1,5 +1,6 @@
 # Friend Finder Application
 
+![](./images/Image.PNG)
 ### Overview
 This app is developed as part of Georgia Tech Coding Bootcamp homework.
 
