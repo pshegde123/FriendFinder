@@ -46,3 +46,6 @@ The application will now be running locally on `PORT=3030`. You can then access 
 * `Express.js`
 * `HTML`
 * `Bootstrap`
+
+### Authors
+See contribution history [here](https://github.com/pshegde123/FriendFinder/graphs/contributors)
